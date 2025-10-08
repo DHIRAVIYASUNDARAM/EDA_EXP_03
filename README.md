@@ -2,9 +2,7 @@
 
 **Aim**
 
-
 To compare air quality parameters in Delhi across different stations and analyze the relationship between pollutants (e.g., PM2.5 and NO₂) using scatter plots and correlation analysis.
-
 
 **Procedure / Algorithm**
 
@@ -27,14 +25,16 @@ To compare air quality parameters in Delhi across different stations and analyze
 
 **Program**
 
-**Name : **
+**Name: DHIRAVIYA S**
 
-**Reg No:**
+**Reg No: 212223040041**
 
-#Write your code here
+**Code and Output**
+```
 
 
-**Output**
+
+
 
 **Interpretation**
 
